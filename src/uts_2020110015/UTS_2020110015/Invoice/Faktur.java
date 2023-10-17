@@ -57,7 +57,7 @@ public class Faktur {
             System.out.println(" ");
         }
 
-        System.out.println("-----------------------------------------------------------");
+        System.out.println("---------------------------------------------------------");
         System.out.println("Total Harga: " + addcurrency());
         System.out.println("Terima kasih atas pembelian Anda!");
     }
